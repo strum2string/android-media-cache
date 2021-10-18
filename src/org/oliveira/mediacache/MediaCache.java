@@ -1,4 +1,5 @@
-package org.oliveira.mediacache;
+
+androidpackage org.oliveira.mediacache;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -257,3 +258,4 @@ public class MediaCache {
 	}
 	
 }
+
